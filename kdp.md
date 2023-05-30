@@ -22,7 +22,7 @@ Each chapter includes practical tips, exercises, and real-life examples to help 
 
 With How to Develop an Agile Mindset and Adapt to Change in the Workplace, you'll learn how to navigate change with confidence, seize opportunities for growth and advancement, and become more resilient, innovative, and adaptable in the face of challenges and uncertainty. So let's get started!
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
