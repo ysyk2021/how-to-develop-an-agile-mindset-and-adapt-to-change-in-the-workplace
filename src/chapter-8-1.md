@@ -1,8 +1,3 @@
-The Role of Leadership in Supporting an Agile Mindset
-====================================================================================
-
-Introduction
-------------
 
 Leadership plays a critical role in supporting individuals and teams in developing an agile mindset. Leaders who embrace agility, encourage innovation, and prioritize communication and collaboration can help create a culture where individuals are more adaptable and resilient in the face of change. In this chapter, we will explore the importance of leadership in fostering an agile mindset and supporting individuals in developing the skills they need to succeed in a rapidly changing business environment.
 

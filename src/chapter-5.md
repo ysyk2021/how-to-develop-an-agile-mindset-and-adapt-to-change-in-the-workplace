@@ -1,5 +1,3 @@
-Chapter 4: Building Flexibility and Adaptability
-================================================
 
 Developing effective problem-solving skills
 -------------------------------------------

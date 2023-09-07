@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 The role of leadership in supporting an agile mindset
 -----------------------------------------------------

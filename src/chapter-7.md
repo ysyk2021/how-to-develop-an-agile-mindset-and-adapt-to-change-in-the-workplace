@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 Implementing agility and adaptability strategies for adapting to change in the workplace
 ----------------------------------------------------------------------------------------

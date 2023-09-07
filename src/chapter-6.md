@@ -1,5 +1,3 @@
-Chapter 5: Prioritizing Communication and Collaboration
-=======================================================
 
 Building effective communication and collaboration skills
 ---------------------------------------------------------

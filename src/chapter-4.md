@@ -1,5 +1,3 @@
-Chapter 3: Embracing a Growth Mindset
-=====================================
 
 Fostering a positive attitude towards change
 --------------------------------------------

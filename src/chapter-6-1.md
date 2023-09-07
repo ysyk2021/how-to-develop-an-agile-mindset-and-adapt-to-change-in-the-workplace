@@ -1,8 +1,3 @@
-Building Effective Communication and Collaboration Skills
-==================================================================================================================
-
-Introduction
-------------
 
 Communication and collaboration are critical skills for individuals seeking to develop an agile mindset. In order to be nimble and adaptable in the face of change, individuals must be able to communicate effectively and work collaboratively with others. In this chapter, we will explore how to prioritize communication and collaboration in the workplace and build effective skills in these areas.
 

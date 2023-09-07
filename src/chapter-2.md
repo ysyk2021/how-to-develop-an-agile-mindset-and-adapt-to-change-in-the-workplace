@@ -1,5 +1,3 @@
-Chapter 1: Defining Agility and Adaptability
-============================================
 
 What is agility and adaptability?
 ---------------------------------

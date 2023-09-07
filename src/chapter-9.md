@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 Innovations in developing an agile mindset
 ------------------------------------------

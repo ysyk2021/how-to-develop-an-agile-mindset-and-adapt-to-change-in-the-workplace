@@ -1,5 +1,3 @@
-Chapter 2: The Impact of Agility and Adaptability on Organizational Success
-===========================================================================
 
 Understanding the impact of agility and adaptability on organizational success
 ------------------------------------------------------------------------------

@@ -1,8 +1,3 @@
-Encouraging Creativity and Innovation
-=======================================================================================
-
-Introduction
-------------
 
 In order to remain competitive in a constantly changing business environment, organizations must prioritize agility, adaptability, and innovation. Companies that are able to pivot quickly, respond effectively to change, and continually innovate are better equipped to stay ahead of the curve and build a strong competitive advantage. In this chapter, we will explore strategies for building flexibility and adaptability within an organization by encouraging creativity and innovation.
 

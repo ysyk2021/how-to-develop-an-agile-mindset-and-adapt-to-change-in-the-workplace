@@ -1,5 +1,3 @@
-Implementing agility and adaptability strategies for adapting to change in the workplace
-===================================================================================================================
 
 Developing an agile mindset and adapting to change requires practical implementation strategies that can be applied in the workplace. This chapter explores some tactics and techniques for implementing agility and adaptability strategies.
 

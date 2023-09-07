@@ -1,8 +1,3 @@
-Encouraging Teamwork and Cooperation
-=============================================================================================
-
-Introduction
-------------
 
 Effective communication and collaboration are critical components of an agile mindset. In order to work effectively in today's complex and dynamic work environment, individuals and teams must be able to communicate openly and collaborate effectively across organizational boundaries. In this chapter, we will explore the importance of prioritizing communication and collaboration in developing an agile mindset and strategies for encouraging teamwork and cooperation.
 
