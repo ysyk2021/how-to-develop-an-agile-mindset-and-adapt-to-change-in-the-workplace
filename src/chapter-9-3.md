@@ -1,5 +1,4 @@
-Chapter 14: Looking Ahead to the Future of a Workforce with an Agile Mindset
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we navigate an increasingly fast-paced and constantly evolving business landscape, developing an agile mindset and embracing change becomes imperative for individuals and organizations alike. In this final chapter, we will explore the future of a workforce with an agile mindset and discuss how it will shape the workplace of tomorrow.
 

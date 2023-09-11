@@ -1,5 +1,4 @@
-Chapter 7: Encouraging Learning Opportunities
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly changing workplace, fostering a culture of continuous learning is essential for individuals and organizations to thrive. This chapter explores the importance of encouraging learning opportunities, strategies for creating a learning-oriented environment, and the benefits of adopting an agile mindset.
 

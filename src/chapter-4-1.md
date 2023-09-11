@@ -1,5 +1,4 @@
-Chapter 5: Fostering a Positive Attitude Towards Change
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of fostering a positive attitude towards change in developing an agile mindset and adapting to change in the workplace. By embracing change with a positive mindset, you can navigate uncertainty, seize opportunities, and thrive in an ever-evolving professional landscape.
 

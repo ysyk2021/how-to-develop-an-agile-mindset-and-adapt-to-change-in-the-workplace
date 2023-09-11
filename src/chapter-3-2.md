@@ -1,5 +1,4 @@
-Chapter 10: The Costs of Ignoring Agility and Adaptability
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Ignoring agility and adaptability in the workplace can have significant costs for individuals and organizations. In this chapter, we will explore the potential consequences of failing to develop an agile mindset and adapt to change, highlighting the importance of embracing these principles for long-term success.
 

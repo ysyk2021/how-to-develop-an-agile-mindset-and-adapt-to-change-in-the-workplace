@@ -1,5 +1,4 @@
-Chapter 7: Developing Effective Problem-Solving Skills
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective problem-solving skills are critical in developing an agile mindset and adapting to change in the workplace. In this chapter, we will explore strategies and techniques to enhance problem-solving abilities, enabling individuals and organizations to navigate challenges and seize opportunities with confidence and efficiency.
 

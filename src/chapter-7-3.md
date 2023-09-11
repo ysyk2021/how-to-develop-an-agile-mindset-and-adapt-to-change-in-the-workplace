@@ -1,5 +1,4 @@
-Chapter 10: Measuring the Effectiveness of Agility and Adaptability Strategies
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Measuring the effectiveness of agility and adaptability strategies is crucial for individuals and organizations seeking to develop an agile mindset and thrive in a rapidly changing workplace. In this chapter, we will explore various methods and metrics to evaluate the impact and success of agility and adaptability initiatives.
 

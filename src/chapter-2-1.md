@@ -1,5 +1,4 @@
-Chapter 2: What is Agility and Adaptability?
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agility and adaptability are critical traits for individuals and organizations seeking to thrive in today's rapidly changing workplace. In this chapter, we will explore the concepts of agility and adaptability, understand their significance, and learn how they contribute to success in the face of constant change.
 

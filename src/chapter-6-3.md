@@ -1,5 +1,4 @@
-Chapter 6: Promoting Trust and Transparency
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Trust and transparency are essential elements in developing an agile mindset and adapting to change in the workplace. In this chapter, we will explore the significance of trust and transparency, how they contribute to a positive work environment, and strategies for promoting them within teams and organizations.
 

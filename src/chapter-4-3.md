@@ -1,5 +1,4 @@
-Chapter 7: Building Resilience and Self-Confidence
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly changing workplace, building resilience and self-confidence are crucial for individuals to thrive and adapt. This chapter explores the significance of resilience and self-confidence, strategies for developing them, and their impact on personal and professional growth.
 

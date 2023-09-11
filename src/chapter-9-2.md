@@ -1,5 +1,4 @@
-Chapter 13: Addressing New Challenges in Promoting Agility and Adaptability
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Promoting agility and adaptability in the workplace is essential for individuals and organizations to thrive in today's rapidly changing business landscape. However, it is important to recognize and address the new challenges that can arise when attempting to foster these qualities. In this chapter, we will explore some of these challenges and provide strategies for effectively promoting agility and adaptability amidst them.
 

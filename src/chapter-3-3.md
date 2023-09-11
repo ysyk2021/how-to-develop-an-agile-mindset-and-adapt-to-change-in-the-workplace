@@ -1,5 +1,4 @@
-Chapter 9: The Risks to Employee Morale, Productivity, and Retention
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Maintaining high levels of employee morale, productivity, and retention is essential for organizations striving to develop an agile mindset and adapt to change in the workplace. In this chapter, we will explore the risks that can impact these crucial aspects and discuss strategies to mitigate them effectively.
 

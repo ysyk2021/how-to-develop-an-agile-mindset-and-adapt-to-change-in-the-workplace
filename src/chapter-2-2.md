@@ -1,5 +1,4 @@
-Chapter 8: The Benefits of Agility and Adaptability in the Workplace
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agility and adaptability are essential qualities for individuals and organizations to thrive in today's dynamic and ever-changing workplace. In this chapter, we will explore the numerous benefits of developing and embracing an agile mindset and a culture of adaptability.
 

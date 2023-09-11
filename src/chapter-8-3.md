@@ -1,5 +1,4 @@
-Chapter 9: Addressing Challenges and Setbacks
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced and ever-changing workplace, challenges and setbacks are inevitable. Developing an agile mindset is not just about embracing change; it also requires the ability to effectively address and overcome obstacles. In this chapter, we will explore strategies for addressing challenges and setbacks while maintaining an agile and adaptable approach.
 

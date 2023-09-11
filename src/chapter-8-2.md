@@ -1,5 +1,4 @@
-Chapter 7: Modeling Agile and Adaptable Behaviors
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In order to develop an agile mindset and adapt to change in the workplace, it is crucial to have role models who embody these behaviors. When individuals observe leaders or colleagues consistently demonstrating agility and adaptability, it inspires and motivates them to adopt similar behaviors. In this chapter, we will explore the importance of modeling agile and adaptable behaviors and discuss strategies for leaders and individuals to lead by example.
 
